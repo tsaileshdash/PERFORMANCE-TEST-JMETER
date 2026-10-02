@@ -1,0 +1,7 @@
+testType,scenario,description
+Load Testing,Normal Load,Validate system behavior under expected production traffic.
+Stress Testing,Peak Stress,Push beyond normal limits to find breaking points and bottlenecks.
+Spike Testing,Traffic Spike,Simulate sudden increases in user traffic to test resilience.
+Endurance/Soak Testing,Long Duration,Measure stability and resource behavior over an extended period.
+Scalability Testing,Scale Up/Out,Check performance as user load and system size increase.
+Volume Testing,High Data Volume,Verify processing and response quality with large requests and datasets.
